@@ -1,0 +1,11 @@
+.dc-img-container {
+	height: 100px;
+	margin-left: 7px;
+	overflow: hidden;
+	width: 100px;
+}
+
+.dc-img-container img {
+	height: 100px;
+	width: 100px;
+}

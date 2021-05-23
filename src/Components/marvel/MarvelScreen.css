@@ -1,0 +1,15 @@
+body {
+	background-color: #151515;
+}
+
+.marvel-img-container {
+	height: 100px;
+	margin-left: -20px;
+	overflow: hidden;
+	width: 300px;
+}
+
+.marvel-img-container img {
+	height: 100px;
+	width: 300px;
+}
